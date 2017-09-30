@@ -1,0 +1,28 @@
+title: Shan Rajapakshe
+author: Shan Rajapakshe
+email: shan.rajapakshe@gmail.com
+description: shan rajapakshe, personal, epidemiology, PRO, patient reported outcomes
+url: "localhost" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username: shanrajapakshe
+
+markdown: kramdown
+# theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
