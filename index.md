@@ -3,7 +3,7 @@ title: Shan Rajapakshe!!
 layout: default
 ---
 
-# {{ page.title }}
+# About Me
 
 Hey team, I'm Shan!
 
