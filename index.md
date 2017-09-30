@@ -7,7 +7,7 @@ layout: default
 
 Hey team, I'm Shan!
 
-I'm a Grad student at <a href="www.ubc.ca">UBC</a> in the <a href="www.spph.ubc.ca">SPPH</a> working on empowering patients through technology.
+I'm a Grad student at <a href="https://www.ubc.ca">UBC</a> in the <a href="http://www.spph.ubc.ca">SPPH</a> working on empowering patients through technology.
 
 
 # Research Interests
