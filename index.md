@@ -7,13 +7,13 @@ layout: default
 
 Hey team, I'm Shan!
 
-I'm a Grad student at <a href="https://www.ubc.ca">UBC</a> in the <a href="http://www.spph.ubc.ca">SPPH</a> working on empowering patients through technology.
+I'm a Grad student at <a href="https://www.ubc.ca">UBC</a> in the School of Population and Public Health <a href="http://www.spph.ubc.ca">(SPPH)</a> working on empowering patients and improving healthcare.
 
 
 # Research Interests
 - Epidemiology
-- Health Policy
-- Patient Reported Outcomes (PROs)
+- <a href="http://chspr.ubc.ca/">Health Policy</a>
+- Patient Reported Outcomes <a href="http://patientreportedoutcomes.ca/">(PROs)</a>
 - Data Science
 
 # Education
